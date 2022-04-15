@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fanzaoa
-- 💻 computer science and Technology
+- 💻 Computer Science and Technology
 - 🌱 I’m currently learning Spring Framework, Algorithms
 
 <!---
